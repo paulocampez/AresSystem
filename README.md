@@ -1,2 +1,2 @@
 # AresSystem
-SPA + CQRS + ES + MQ + MS + DDD + K8S for study purpose
+SPA for user to join in tournaments
